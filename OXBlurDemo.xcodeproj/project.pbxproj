@@ -16,6 +16,7 @@
 		AD6821701EE2486300644E24 /* OXBlurDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD68216F1EE2486300644E24 /* OXBlurDemoTests.m */; };
 		AD68217B1EE2486300644E24 /* OXBlurDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD68217A1EE2486300644E24 /* OXBlurDemoUITests.m */; };
 		AD6821891EE248C600644E24 /* neo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AD6821881EE248C600644E24 /* neo.jpeg */; };
+		AD68218B1EE2510700644E24 /* demo.png in Resources */ = {isa = PBXBuildFile; fileRef = AD68218A1EE2510700644E24 /* demo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		AD68217A1EE2486300644E24 /* OXBlurDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OXBlurDemoUITests.m; sourceTree = "<group>"; };
 		AD68217C1EE2486300644E24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD6821881EE248C600644E24 /* neo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neo.jpeg; sourceTree = "<group>"; };
+		AD68218A1EE2510700644E24 /* demo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = demo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				AD68216E1EE2486300644E24 /* OXBlurDemoTests */,
 				AD6821791EE2486300644E24 /* OXBlurDemoUITests */,
 				AD6821531EE2486300644E24 /* Products */,
+				AD68218A1EE2510700644E24 /* demo.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD6821651EE2486300644E24 /* LaunchScreen.storyboard in Resources */,
+				AD68218B1EE2510700644E24 /* demo.png in Resources */,
 				AD6821621EE2486300644E24 /* Assets.xcassets in Resources */,
 				AD6821891EE248C600644E24 /* neo.jpeg in Resources */,
 				AD6821601EE2486300644E24 /* Main.storyboard in Resources */,
