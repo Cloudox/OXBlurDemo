@@ -15,6 +15,7 @@
 		AD6821651EE2486300644E24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6821631EE2486300644E24 /* LaunchScreen.storyboard */; };
 		AD6821701EE2486300644E24 /* OXBlurDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD68216F1EE2486300644E24 /* OXBlurDemoTests.m */; };
 		AD68217B1EE2486300644E24 /* OXBlurDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD68217A1EE2486300644E24 /* OXBlurDemoUITests.m */; };
+		AD6821891EE248C600644E24 /* neo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AD6821881EE248C600644E24 /* neo.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AD6821761EE2486300644E24 /* OXBlurDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OXBlurDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD68217A1EE2486300644E24 /* OXBlurDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OXBlurDemoUITests.m; sourceTree = "<group>"; };
 		AD68217C1EE2486300644E24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD6821881EE248C600644E24 /* neo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neo.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				AD6821611EE2486300644E24 /* Assets.xcassets */,
 				AD6821631EE2486300644E24 /* LaunchScreen.storyboard */,
 				AD6821661EE2486300644E24 /* Info.plist */,
+				AD6821881EE248C600644E24 /* neo.jpeg */,
 				AD6821551EE2486300644E24 /* Supporting Files */,
 			);
 			path = OXBlurDemo;
@@ -248,6 +251,7 @@
 			files = (
 				AD6821651EE2486300644E24 /* LaunchScreen.storyboard in Resources */,
 				AD6821621EE2486300644E24 /* Assets.xcassets in Resources */,
+				AD6821891EE248C600644E24 /* neo.jpeg in Resources */,
 				AD6821601EE2486300644E24 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
